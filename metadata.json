@@ -1,0 +1,7 @@
+{
+  "name": "قاموسي الذكي (My Smart Dictionary)",
+  "description": "تطبيق قاموس شخصي متقدم يسمح بإضافة الكلمات، الجمل، والملاحظات مع دعم الذكاء الاصطناعي لتوليد المعاني والأمثلة.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
